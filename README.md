@@ -10,11 +10,11 @@ Automated Container Deployment and Administration in the cloud where we are usin
 4) Continuous Integration (CI) and Continuous Deployment(CD) Pipeline: GitHub 	Actions automates the build, test, deployment process
 
 ## Prerequisites
-AWS account 
-Terraform installed
-Ansible installed (WSL for Windows Users)
-Docker installed 
-GitHub Repository With Actions Enabled
+AWS account, 
+Terraform installed,
+Ansible installed (WSL for Windows Users),
+Docker installed, 
+GitHub Repository With Actions Enabled.
 
 ## Training
 Learn Terraform basics: To write Terraform Script and manage AWS resources
